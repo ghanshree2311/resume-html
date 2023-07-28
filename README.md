@@ -1,2 +1,2 @@
-# resume-html
+# html-resume
 My resume on a website
